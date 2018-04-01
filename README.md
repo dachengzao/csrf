@@ -27,10 +27,7 @@ gorilla/csrf is also compatible with middleware 'helper' libraries like
 
 ## Install
 
-With a properly configured Go toolchain:
-```sh
-go get github.com/gorilla/csrf
-```
+	go get github.com/dachengzao/csrf
 
 ## Examples
 
